@@ -12,6 +12,13 @@ My goal was to practice how to render templates using Flask. It's a smaller vers
 template design was by [HTML5 UP](https://html5up.net/), and it's called "Astral". I changed the background colors, 
 edited text and added images from previous projects, while also making it compatible to run on Flask.
 
+## What do I have to do
+
+1. Clone the repo
+2. Open the project
+3. Run `server.py`
+4. Access the address told by `server.py`
+
 ![template entrance with photo and name](01.png)
 ![template recent work and projects photos](02.png)
 
@@ -22,3 +29,10 @@ edited text and added images from previous projects, while also making it compat
 Meu objetivo era praticar a renderização de templates com o Flask. Eu diria que é uma versão menor de um portfolio. 
 O design do template foi feito pelo [HTML5 UP](https://html5up.net/) e se chama "Astral". Eu troquei as cores do 
 fundo, editei textos e adicionei imagens de projetos anteriores - além de torná-lo compatível com o Flask.
+
+## O que eu preciso fazer
+
+1. Clonar o repo
+2. Abrir o projeto
+3. Rodar `server.py`
+4. Acessar o endereço fornercido por `server.py`
